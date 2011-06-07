@@ -1,0 +1,38 @@
+{
+    "home": {
+        "title":"Resume of Paul A. Brower",
+        "items":[
+            "professional_experience","education","personal_projects","fun_facts"
+        ]
+    },
+    "professional_experience": {
+        "title":"Professional Experience",
+        "items":[
+            "springpad","pegasystems","ubs"
+        ]
+    },
+    "education": {
+        "title":"Education",
+        "items":["hes","rpi","ths"]
+    },
+    "personal_projects":{
+        "title":"Personal Projects"
+    },
+    "fun_facts":{
+        "title":"Fun Facts"
+    },
+    "springpad":{
+        "title":"Springpad"
+    },
+    "pegasystems":{
+        "title":"Pegasystems"
+    },
+    "ubs":{
+        "title":"UBS Investment Bank"
+    }
+
+
+
+
+
+}
