@@ -14,7 +14,31 @@
     <option name="historyRevisionsNumber" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ebc5e1b-55f3-41e2-a2cf-188c76501b6f" name="Default" comment="" />
+    <list default="true" id="7ebc5e1b-55f3-41e2-a2cf-188c76501b6f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/layers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/titlebar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/hes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/objective.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/pegasystems.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/rpi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/stockfactor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/swt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/ths.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/ubs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gen/com/github/browep/resume/R.java" afterPath="$PROJECT_DIR$/gen/com/github/browep/resume/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/html_viewer.xml" afterPath="$PROJECT_DIR$/res/layout/html_viewer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/data.json" afterPath="$PROJECT_DIR$/res/raw/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/springpad.html" afterPath="$PROJECT_DIR$/res/raw/springpad.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/styles.xml" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/resume/Constants.java" afterPath="$PROJECT_DIR$/src/com/github/browep/resume/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/resume/HtmlViewer.java" afterPath="$PROJECT_DIR$/src/com/github/browep/resume/HtmlViewer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/resume/Main.java" afterPath="$PROJECT_DIR$/src/com/github/browep/resume/Main.java" />
+    </list>
+    <list id="772559e8-e4ad-4fab-96af-612d8d9962b7" name="ignore" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
     <ignored path="resume.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,6 +57,21 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/github/browep/resume/HtmlViewer.java" line="44" class="com.github.browep.resume.HtmlViewer" package="com.github.browep.resume">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -73,10 +112,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/github/browep/resume/Main.java">
+      <file leaf-file-name="data.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/raw/data.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="55" column="44" selection-start="1313" selection-end="1313" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stockfactor.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/raw/stockfactor.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="33" selection-start="397" selection-end="397" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
@@ -85,19 +133,26 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="43" selection-start="730" selection-end="730" vertical-scroll-proportion="0.0">
+            <state line="18" column="26" selection-start="745" selection-end="745" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HtmlViewer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/github/browep/resume/HtmlViewer.java">
+      <file leaf-file-name="swt.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/raw/swt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="18" selection-start="0" selection-end="1285" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="1" column="0" selection-start="32" selection-end="32" vertical-scroll-proportion="-0.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="objective.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/raw/objective.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="35" selection-start="54" selection-end="54" vertical-scroll-proportion="-0.625">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -105,61 +160,43 @@
       <file leaf-file-name="html_viewer.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/html_viewer.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="39" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
+            <state line="28" column="38" selection-start="1146" selection-end="1146" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <file leaf-file-name="HtmlViewer.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/github/browep/resume/HtmlViewer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0">
+            <state line="40" column="29" selection-start="1320" selection-end="1320" vertical-scroll-proportion="0.6514161">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="springpad.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/raw/springpad.html">
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/github/browep/resume/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="-0.0">
+            <state line="40" column="38" selection-start="1056" selection-end="1119" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeMap.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-6-sun-1.6.0.21/jre/lib/rt.jar!/java/util/TreeMap.class">
+      <file leaf-file-name="layers.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/drawable/layers.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="163" column="0" selection-start="7301" selection-end="7301" vertical-scroll-proportion="0.0">
+            <state line="16" column="23" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bundle.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/android-sdk-linux_x86/platforms/android-8/android.jar!/android/os/Bundle.class">
+      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="125" column="43" selection-start="5475" selection-end="5475" vertical-scroll-proportion="-2.2">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constants.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/github/browep/resume/Constants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="75" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data.json" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/res/raw/data.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="100" selection-start="59" selection-end="59" vertical-scroll-proportion="0.06535948">
+            <state line="20" column="0" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -179,20 +216,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/res/layout/main.xml" />
-        <option value="$PROJECT_DIR$/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/res/layout/default_listitem.xml" />
-        <option value="$PROJECT_DIR$/src/com/github/browep/resume/Home.java" />
-        <option value="$PROJECT_DIR$/src/com/github/browep/resume/ResumeApplication.java" />
-        <option value="$PROJECT_DIR$/res/values/resource.xml" />
-        <option value="$PROJECT_DIR$/src/Constants.java" />
-        <option value="$PROJECT_DIR$/src/com/github/browep/resume/Constants.java" />
-        <option value="$PROJECT_DIR$/res/layout/html_viewer.xml" />
-        <option value="$PROJECT_DIR$/src/com/github/browep/resume/HtmlViewer.java" />
         <option value="$PROJECT_DIR$/src/com/github/browep/resume/Main.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/res/raw/springpad.html" />
+        <option value="$PROJECT_DIR$/src/com/github/browep/resume/Constants.java" />
+        <option value="$PROJECT_DIR$/res/raw/pegasystems.html" />
+        <option value="$PROJECT_DIR$/res/raw/ubs.html" />
+        <option value="$PROJECT_DIR$/res/raw/ths.html" />
+        <option value="$PROJECT_DIR$/res/raw/rpi.html" />
+        <option value="$PROJECT_DIR$/res/raw/hes.html" />
+        <option value="$PROJECT_DIR$/res/raw/objective.html" />
+        <option value="$PROJECT_DIR$/res/raw/swt.html" />
+        <option value="$PROJECT_DIR$/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/res/raw/data.json" />
+        <option value="$PROJECT_DIR$/res/drawable/layers.xml" />
+        <option value="$PROJECT_DIR$/res/layout/html_viewer.xml" />
+        <option value="$PROJECT_DIR$/res/raw/stockfactor.html" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/github/browep/resume/HtmlViewer.java" />
       </list>
     </option>
   </component>
@@ -210,7 +249,7 @@
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -380,6 +419,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resume" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resume" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -581,9 +638,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <option name="associatedChangelistId" value="772559e8-e4ad-4fab-96af-612d8d9962b7" />
       <changelist id="7ebc5e1b-55f3-41e2-a2cf-188c76501b6f" name="Default" comment="" />
+      <changelist id="772559e8-e4ad-4fab-96af-612d8d9962b7" name="ignore" comment="" />
       <created>1307079697421</created>
-      <updated>1307079697421</updated>
+      <updated>1307479882220</updated>
     </task>
     <servers />
   </component>
@@ -591,11 +650,11 @@
     <frame x="-1" y="24" width="1922" height="1033" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39626783" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39583334" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -607,7 +666,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959914" sideWeight="0.5339912" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46600878" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -685,104 +744,114 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/android-sdk-linux_x86/platforms/android-8/android.jar!/android/widget/ArrayAdapter.class">
+    <entry file="file://$PROJECT_DIR$/res/raw/springpad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="152" selection-end="152" vertical-scroll-proportion="-3.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/resource.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/codehaus/jackson/map/ext/JodaSerializers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="57" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/browep/resume/ResumeApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="50" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/default_listitem.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="36" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/android-sdk-linux_x86/platforms/android-8/android.jar!/android/os/Bundle.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="43" selection-start="5475" selection-end="5475" vertical-scroll-proportion="-2.2">
+        <state line="2" column="50" selection-start="0" selection-end="94" vertical-scroll-proportion="-1.25">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-6-sun-1.6.0.21/jre/lib/rt.jar!/java/util/TreeMap.class">
+    <entry file="file://$PROJECT_DIR$/res/raw/pegasystems.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="163" column="0" selection-start="7301" selection-end="7301" vertical-scroll-proportion="0.0">
+        <state line="3" column="0" selection-start="0" selection-end="97" vertical-scroll-proportion="-1.875">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/browep/resume/Constants.java">
+    <entry file="file://$PROJECT_DIR$/res/raw/ths.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="75" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0">
+        <state line="2" column="7" selection-start="68" selection-end="68" vertical-scroll-proportion="-1.25">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/html_viewer.xml">
+    <entry file="file://$PROJECT_DIR$/res/raw/ubs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="39" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
+        <state line="4" column="15" selection-start="107" selection-end="107" vertical-scroll-proportion="-2.5">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/browep/resume/HtmlViewer.java">
+    <entry file="file://$PROJECT_DIR$/res/raw/rpi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="18" selection-start="0" selection-end="1285" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0">
+        <state line="4" column="7" selection-start="174" selection-end="174" vertical-scroll-proportion="-2.5">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/res/raw/hes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="43" selection-start="730" selection-end="730" vertical-scroll-proportion="0.0">
+        <state line="2" column="40" selection-start="105" selection-end="105" vertical-scroll-proportion="-1.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw/objective.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="35" selection-start="54" selection-end="54" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/github/browep/resume/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="40" column="38" selection-start="1056" selection-end="1119" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/raw/springpad.html">
+    <entry file="file://$PROJECT_DIR$/res/raw/swt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0">
+        <state line="1" column="0" selection-start="32" selection-end="32" vertical-scroll-proportion="-0.625">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/raw/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="100" selection-start="59" selection-end="59" vertical-scroll-proportion="0.06535948">
+        <state line="55" column="44" selection-start="1313" selection-end="1313" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/layers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="23" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/html_viewer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="38" selection-start="1146" selection-end="1146" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw/stockfactor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="33" selection-start="397" selection-end="397" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="26" selection-start="745" selection-end="745" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/browep/resume/HtmlViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="29" selection-start="1320" selection-end="1320" vertical-scroll-proportion="0.6514161">
           <folding />
         </state>
       </provider>

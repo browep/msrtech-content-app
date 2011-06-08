@@ -9,4 +9,20 @@
         <item name="android:textSize">26sp</item>
         <item name="android:padding">5px</item>
     </style>
+    <style name="HomeButton" >
+           <item name="android:layout_width">256px</item>
+           <item name="android:layout_height">72px</item>
+           <item name="android:textColor">#FFFFFF</item>
+           <item name="android:textSize">18sp</item>
+           <item name="android:typeface">normal</item>
+           <item name="android:layout_margin">10px</item>
+           <item name="android:gravity">left|center_vertical</item>
+       </style>
+
+    <style name="ChicletButton" parent="HomeButton">
+        <item name="android:layout_width">86px</item>
+        <item name="android:layout_height">86px</item>
+      <item name="android:textSize">16sp</item>
+      <item name="android:singleLine">false</item>
+    </style>
 </resources>

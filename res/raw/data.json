@@ -2,7 +2,7 @@
     "home": {
         "title":"Resume of Paul A. Brower",
         "items":[
-            "professional_experience","education","personal_projects","fun_facts"
+            "objective","professional_experience","education","personal_projects","landt","fun_facts"
         ]
     },
     "professional_experience": {
@@ -16,7 +16,8 @@
         "items":["hes","rpi","ths"]
     },
     "personal_projects":{
-        "title":"Personal Projects"
+        "title":"Personal Projects",
+        "items":["swt","stockfactor"]
     },
     "fun_facts":{
         "title":"Fun Facts"
@@ -29,10 +30,31 @@
     },
     "ubs":{
         "title":"UBS Investment Bank"
+    },
+    "hes":{
+        "title":"Harvard Extension School"
+    },
+    "rpi":{
+        "title":"Rensselaer Polytechnic Institute"
+    },
+    "ths":{
+        "title":"Tiverton High School"
+    },
+    "objective":{
+      "title":"Objective"
+    },
+    "swt":{
+        "title":"Simple Workout Tracker",
+        "url":"https://market.android.com/details?id=com.github.browep.fpt"
+
+    },
+    "stockfactor":{
+        "title":"The Stock Factor",
+        "url":"http://thestockfactor.com"
+    },
+    "landt":{
+        "title":"Languages and Technologies"
     }
-
-
-
 
 
 }

@@ -31,8 +31,8 @@ public class Main extends ListActivity {
   @Override
   public void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
-    setContentView(R.layout.main);
 
+    setContentView(R.layout.main);
 
     screenId = getIntent().getExtras() != null ? getIntent().getExtras().getString(SCREEN_ID) : null;
     if (screenId == null)
