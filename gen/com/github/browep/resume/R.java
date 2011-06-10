@@ -27,16 +27,19 @@ public final class R {
         public static final int titlebar=0x7f030003;
     }
     public static final class raw {
-        public static final int data=0x7f040000;
-        public static final int hes=0x7f040001;
-        public static final int objective=0x7f040002;
-        public static final int pegasystems=0x7f040003;
-        public static final int rpi=0x7f040004;
-        public static final int springpad=0x7f040005;
-        public static final int stockfactor=0x7f040006;
-        public static final int swt=0x7f040007;
-        public static final int ths=0x7f040008;
-        public static final int ubs=0x7f040009;
+        public static final int contact=0x7f040000;
+        public static final int data=0x7f040001;
+        public static final int fun_facts=0x7f040002;
+        public static final int hes=0x7f040003;
+        public static final int landt=0x7f040004;
+        public static final int objective=0x7f040005;
+        public static final int pegasystems=0x7f040006;
+        public static final int rpi=0x7f040007;
+        public static final int springpad=0x7f040008;
+        public static final int stockfactor=0x7f040009;
+        public static final int swt=0x7f04000a;
+        public static final int ths=0x7f04000b;
+        public static final int ubs=0x7f04000c;
     }
     public static final class string {
         public static final int app_name=0x7f050000;
@@ -44,6 +47,9 @@ public final class R {
     public static final class style {
         public static final int ChicletButton=0x7f060003;
         public static final int DefaultListItemTextView=0x7f060001;
+        /** <item name="android:paddingTop">12px</item>
+<item name="android:paddingBottom">12px</item>
+         */
         public static final int DefaultListView=0x7f060000;
         public static final int HomeButton=0x7f060002;
     }

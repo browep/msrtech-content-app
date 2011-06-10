@@ -7,29 +7,32 @@
         >
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
                   android:layout_width="match_parent"
-                  android:layout_height="match_parent">
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+            >
         <TextView android:id="@+id/html"
-                android:padding="8sp"
-                android:textSize="14sp"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                  android:padding="8sp"
+                  android:textSize="16sp"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
                 />
-         <LinearLayout android:orientation="horizontal"
-                android:gravity="center"
-                android:layout_height="wrap_content"
-                android:layout_width="wrap_content"
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="horizontal"
+                      android:gravity="center"
 
-      >
-    <Button android:background="@drawable/layers"
-            style="@style/ChicletButton"
-            android:id="@+id/see_it_button"
-            android:onClick="seeItOnClick"
-            android:text="See it!"
-            android:visibility="gone"
-            android:textColor="#000000"
-        />
+                >
+            <Button
+                    android:background="@drawable/layers"
+                    style="@style/ChicletButton"
+                    android:id="@+id/see_it_button"
+                    android:visibility="invisible"
+                    android:onClick="seeItOnClick"
+                    android:text="See it!"
+                    />
+        </LinearLayout>
 
-  </LinearLayout>
 
     </LinearLayout>
 </ScrollView>

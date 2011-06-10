@@ -11,4 +11,5 @@ public class Constants {
   public static final String SCREEN_ID = "screen_id";
   public static final String TITLE = "title";
   public static final String APP_PACKAGE_NAME = "com.github.browep.resume";
+  public static final String CONTACT_PAUL = "Contact Paul";
 }

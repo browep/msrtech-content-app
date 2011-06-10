@@ -4,6 +4,8 @@ import android.app.ListActivity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
@@ -88,5 +90,15 @@ public class Main extends ListActivity {
     Intent intent = new Intent(this, screens.get(ids[position]).containsKey("items") ? Main.class : HtmlViewer.class);
     intent.putExtra(SCREEN_ID, ids[position]);
     this.startActivity(intent);
+  }
+
+  @Override
+  public boolean onCreateOptionsMenu(Menu menu) {
+    return ResumeApplication.onCreateOptionsMenu(menu);
+  }
+
+  @Override
+  public boolean onMenuItemSelected(int featureId, MenuItem item) {
+    return ResumeApplication.onMenuItemSelected(this,featureId,item);
   }
 }

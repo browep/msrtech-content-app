@@ -2,7 +2,7 @@
     "home": {
         "title":"Resume of Paul A. Brower",
         "items":[
-            "objective","professional_experience","education","personal_projects","landt","fun_facts"
+            "contact","objective","professional_experience","education","personal_projects","landt","fun_facts"
         ]
     },
     "professional_experience": {
@@ -54,6 +54,9 @@
     },
     "landt":{
         "title":"Languages and Technologies"
+    },
+    "contact":{
+      "title":"Contact"
     }
 
 

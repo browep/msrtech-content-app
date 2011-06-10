@@ -5,6 +5,9 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.text.Html;
+import android.text.util.Linkify;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -13,8 +16,7 @@ import android.widget.Toast;
 import java.io.IOException;
 import java.io.InputStream;
 
-import static com.github.browep.resume.Constants.APP_PACKAGE_NAME;
-import static com.github.browep.resume.Constants.SCREEN_ID;
+import static com.github.browep.resume.Constants.*;
 
 /**
  * Created by IntelliJ IDEA.
@@ -37,9 +39,8 @@ public class HtmlViewer extends Activity {
     TextView blurbView = (TextView) findViewById(R.id.html);
     try {
       blurbView.setText(Html.fromHtml(slurp(inputStream)));
-//      Linkify.addLinks(blurbView, Linkify.ALL);
-    } catch (IOException e) {
-    }
+      Linkify.addLinks(blurbView,Linkify.ALL);
+    } catch (IOException e) {}
 
     url = (String) ResumeApplication.getApplication().getScreens().get(screenId).get("url");
     if (url != null) {
@@ -63,5 +64,15 @@ public class HtmlViewer extends Activity {
     Intent i = new Intent(Intent.ACTION_VIEW);
     i.setData(Uri.parse(url));
     startActivity(i);
+  }
+
+  @Override
+  public boolean onCreateOptionsMenu(Menu menu) {
+    return ResumeApplication.onCreateOptionsMenu(menu);
+  }
+
+  @Override
+  public boolean onMenuItemSelected(int featureId, MenuItem item) {
+    return ResumeApplication.onMenuItemSelected(this,featureId,item);
   }
 }
