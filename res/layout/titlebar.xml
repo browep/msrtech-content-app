@@ -6,9 +6,8 @@
 
 
     <TextView
-
             android:id="@+id/myTitle"
-            android:text="Resume of Paul A. Brower"
+            android:text="Handi Quilter"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             />

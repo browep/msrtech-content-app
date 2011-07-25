@@ -2,6 +2,7 @@ package com.github.browep.resume;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.res.Resources;
 import android.net.Uri;
 import android.os.Bundle;
 import android.text.Html;
@@ -33,8 +34,13 @@ public class HtmlViewer extends Activity {
     super.onCreate(savedInstanceState);
     String screenId = getIntent().getExtras().getString(SCREEN_ID);
     int id = getResources().getIdentifier(screenId, "raw", APP_PACKAGE_NAME);
-    InputStream inputStream =
-        ResumeApplication.getApplication().getApplicationContext().getResources().openRawResource(id);
+    InputStream inputStream;
+    try {
+      inputStream = ContentApplication.getApplication().getApplicationContext().getResources().openRawResource(id);
+    } catch (Resources.NotFoundException e) {
+      id = getResources().getIdentifier("notfound", "raw", APP_PACKAGE_NAME);
+      inputStream = ContentApplication.getApplication().getApplicationContext().getResources().openRawResource(id);
+    }
     setContentView(R.layout.html_viewer);
     TextView blurbView = (TextView) findViewById(R.id.html);
     try {
@@ -42,7 +48,7 @@ public class HtmlViewer extends Activity {
       Linkify.addLinks(blurbView,Linkify.ALL);
     } catch (IOException e) {}
 
-    url = (String) ResumeApplication.getApplication().getScreens().get(screenId).get("url");
+    url = (String) ContentApplication.getApplication().getScreens().get(screenId).get("url");
     if (url != null) {
       Button seeItButton = (Button) findViewById(R.id.see_it_button);
       seeItButton.setVisibility(View.VISIBLE);
@@ -68,11 +74,11 @@ public class HtmlViewer extends Activity {
 
   @Override
   public boolean onCreateOptionsMenu(Menu menu) {
-    return ResumeApplication.onCreateOptionsMenu(menu);
+    return ContentApplication.onCreateOptionsMenu(menu);
   }
 
   @Override
   public boolean onMenuItemSelected(int featureId, MenuItem item) {
-    return ResumeApplication.onMenuItemSelected(this,featureId,item);
+    return ContentApplication.onMenuItemSelected(this, featureId, item);
   }
 }

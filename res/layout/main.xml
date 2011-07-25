@@ -4,6 +4,13 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     >
+    <ImageView
+       android:id="@+id/header"
+       android:src="@drawable/header"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       />
+
 <ListView
         android:id="@android:id/list"
         style="@style/DefaultListView" />

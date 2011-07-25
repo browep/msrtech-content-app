@@ -1,63 +1,68 @@
 {
     "home": {
-        "title":"Resume of Paul A. Brower",
+        "title":"HandiQuilting",
         "items":[
-            "contact","objective","professional_experience","education","personal_projects","landt","fun_facts"
+            "aboutus","contact","products","education","find_store"
         ]
     },
-    "professional_experience": {
-        "title":"Professional Experience",
-        "items":[
-            "springpad","pegasystems","ubs"
-        ]
+    "aboutus": {
+        "title":"About Us"
     },
-    "education": {
-        "title":"Education",
-        "items":["hes","rpi","ths"]
+    "contact": {
+        "title":"Contact Us"
     },
-    "personal_projects":{
-        "title":"Personal Projects",
-        "items":["swt","stockfactor"]
+    "products": {
+        "title" : "Products",
+        "items":["books_dvds","free_downloads","gift_cards","handi_gadgets","groovy_boards","machines","prostitcher"]
     },
-    "fun_facts":{
-        "title":"Fun Facts"
+    "education":{
+        "title" : "Education",
+        "items" : [ "ambassadors","educators","education_faq","retreats","videos"]
     },
-    "springpad":{
-        "title":"Springpad"
+    "ambassadors":{
+        "title": "Ambassadors"
     },
-    "pegasystems":{
-        "title":"Pegasystems"
-    },
-    "ubs":{
-        "title":"UBS Investment Bank"
-    },
-    "hes":{
-        "title":"Harvard Extension School"
-    },
-    "rpi":{
-        "title":"Rensselaer Polytechnic Institute"
-    },
-    "ths":{
-        "title":"Tiverton High School"
-    },
-    "objective":{
-      "title":"Objective"
-    },
-    "swt":{
-        "title":"Simple Workout Tracker",
-        "url":"https://market.android.com/details?id=com.github.browep.fpt"
-
-    },
-    "stockfactor":{
-        "title":"The Stock Factor",
-        "url":"http://thestockfactor.com"
-    },
-    "landt":{
-        "title":"Languages and Technologies"
-    },
-    "contact":{
-      "title":"Contact"
+    "educators":{
+        "title":"Educators"
+    }                      ,
+    "education_faq":{
+        "title":"Education FAQ"
+    }                          ,
+    "retreats":{
+        "title":"Retreats"
     }
+    ,
+    "videos":{
+        "title":"Videos"
+    }                   ,
+    "find_store":{
+        "title":"Find a store near you"
+    },
+    "books_dvds": {
+        "title":"Books & DVDs"
+    }                         ,
+    "free_downloads":{
+        "title":"Free Downloads"
+    },
+    "gift_cards":{
+        "title":"Gift Cards"
+    },
+    "handi_gadgets":{
+        "title":"Handi Gadgets"
+    },
+    "groovy_boards":{
+        "title":"Groovy Boards"
+    },
+    "machines":{
+        "title":"Machines"
+    }                     ,
+    "prostitcher":{
+        "title":"Prostitcher"
+    }
+
+
+
+
 
 
 }

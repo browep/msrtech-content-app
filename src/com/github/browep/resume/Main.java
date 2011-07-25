@@ -40,7 +40,7 @@ public class Main extends ListActivity {
     if (screenId == null)
       screenId = "home";
 
-    screens = ResumeApplication.getApplication().getScreens();
+    screens = ContentApplication.getApplication().getScreens();
     List<String> titles = new ArrayList<String>();
 
 
@@ -94,11 +94,11 @@ public class Main extends ListActivity {
 
   @Override
   public boolean onCreateOptionsMenu(Menu menu) {
-    return ResumeApplication.onCreateOptionsMenu(menu);
+    return ContentApplication.onCreateOptionsMenu(menu);
   }
 
   @Override
   public boolean onMenuItemSelected(int featureId, MenuItem item) {
-    return ResumeApplication.onMenuItemSelected(this,featureId,item);
+    return ContentApplication.onMenuItemSelected(this, featureId, item);
   }
 }
