@@ -32,7 +32,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Android 2.2 Platform" level="application" />
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
@@ -43,6 +42,7 @@
       </library>
     </orderEntry>
     <orderEntry type="library" scope="PROVIDED" name="Android 2.2 Platform(1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="Android 1.6 Platform" level="application" />
   </component>
 </module>
 
