@@ -15,349 +15,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ebc5e1b-55f3-41e2-a2cf-188c76501b6f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gen/com/github/browep/resume/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/fun_facts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/hes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/landt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/objective.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/pegasystems.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/rpi.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/springpad.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/stockfactor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/swt.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/ths.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/ubs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/Base64Variant.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/Base64Variants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/JsonEncoding.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/JsonFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/JsonGenerationException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/JsonGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/JsonLocation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/JsonNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/JsonParseException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/JsonParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/JsonProcessingException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/JsonStreamContext.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/JsonToken.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/ObjectCodec.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/PrettyPrinter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/SerializableString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/Version.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/Versioned.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JacksonAnnotation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonAnyGetter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonAnySetter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonAutoDetect.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonBackReference.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonContentClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonCreator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonGetter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonIgnore.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonIgnoreProperties.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonIgnoreType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonKeyClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonManagedReference.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonMethod.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonProperty.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonPropertyOrder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonRawValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonSetter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonSubTypes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonTypeInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonTypeName.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/JsonWriteNullProperties.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/annotate/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/ByteSourceBootstrapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/DefaultPrettyPrinter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/Indenter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/JsonGeneratorBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/JsonNumericParserBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/JsonParserBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/JsonParserMinimalBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/JsonReadContext.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/JsonWriteContext.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/ReaderBasedNumericParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/ReaderBasedParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/ReaderBasedParserBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/StreamBasedParserBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/Utf8Generator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/Utf8StreamParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/WriterBasedGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/impl/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/io/BaseReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/io/IOContext.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/io/JsonStringEncoder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/io/MergedStream.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/io/NumberInput.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/io/NumberOutput.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/io/SegmentedStringWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/io/SerializedString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/io/UTF32Reader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/io/UTF8Writer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/io/package.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/AbstractTypeResolver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/AnnotationIntrospector.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/BeanDescription.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/BeanProperty.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ClassIntrospector.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ContextualDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ContextualSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/DeserializationConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/DeserializationContext.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/DeserializationProblemHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/DeserializerFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/DeserializerProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/Deserializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/JsonDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/JsonMappingException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/JsonSerializable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/JsonSerializableWithType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/JsonSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/KeyDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/MapperConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/MappingJsonFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/Module.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ObjectMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ObjectReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ObjectWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ResolvableDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ResolvableSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/RuntimeJsonMappingException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/SerializationConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/SerializerFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/SerializerProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/Serializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/TreeMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/TypeDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/TypeSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/annotate/JacksonStdImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/annotate/JsonCachable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/annotate/JsonDeserialize.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/annotate/JsonFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/annotate/JsonSerialize.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/annotate/JsonTypeIdResolver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/annotate/JsonTypeResolver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/annotate/JsonView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/annotate/NoClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/annotate/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/AbstractDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/ArrayDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/ArrayDeserializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/BasicDeserializerFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/BeanDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/BeanDeserializerBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/BeanDeserializerFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/BeanDeserializerModifier.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/CollectionDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/ContainerDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/Creator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/CreatorContainer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/CustomDeserializerFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/DateDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/EnumDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/EnumMapDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/EnumResolver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/EnumSetDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/FromStringDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/JsonNodeDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/MapDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/PropertyValue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/PropertyValueBuffer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/SettableAnyProperty.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/SettableBeanProperty.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/StdDeserializationContext.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/StdDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/StdDeserializerProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/StdDeserializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/StdKeyDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/StdKeyDeserializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/StdScalarDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/ThrowableDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/TimestampDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/UntypedObjectDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/impl/BeanPropertyMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/impl/StringCollectionDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/deser/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/exc/UnrecognizedPropertyException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ext/CoreXMLDeserializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ext/CoreXMLSerializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ext/DOMDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ext/DOMSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ext/JodaDeserializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ext/JodaSerializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ext/OptionalHandlerFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ext/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/Annotated.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/AnnotatedClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/AnnotatedConstructor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/AnnotatedField.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/AnnotatedMember.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/AnnotatedMethod.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/AnnotatedMethodMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/AnnotatedParameter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/AnnotatedWithParams.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/AnnotationMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/BasicBeanDescription.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/BasicClassIntrospector.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/JacksonAnnotationIntrospector.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/MemberKey.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/MethodFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/NopAnnotationIntrospector.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/VisibilityChecker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/introspect/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/NamedType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/SubtypeResolver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/TypeIdResolver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/TypeResolverBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/AsArrayTypeDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/AsArrayTypeSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/AsPropertyTypeDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/AsPropertyTypeSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/AsWrapperTypeDeserializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/AsWrapperTypeSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/ClassNameIdResolver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/MinimalClassNameIdResolver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/StdSubtypeResolver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/StdTypeResolverBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/TypeDeserializerBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/TypeIdResolverBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/TypeNameIdResolver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/TypeSerializerBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/impl/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/jsontype/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/module/SimpleDeserializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/module/SimpleModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/module/SimpleSerializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/module/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/AnyGetterWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/ArraySerializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/BasicSerializerFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/BeanPropertyFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/BeanPropertyWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/BeanSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/BeanSerializerBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/BeanSerializerFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/BeanSerializerModifier.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/ContainerSerializerBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/ContainerSerializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/CustomSerializerFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/EnumMapSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/EnumSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/FailingSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/FilterProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/FilteredBeanPropertyWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/JdkSerializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/JsonValueSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/MapSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/NullSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/PropertyBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/ScalarSerializerBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/SerializerBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/SerializerCache.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/StdKeySerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/StdSerializerProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/StdSerializers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/ToStringSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/impl/IndexedStringListSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/impl/JsonSerializerMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/impl/ObjectArraySerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/impl/PropertySerializerMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/impl/RawSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/impl/ReadOnlyClassToSerializerMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/impl/SimpleBeanPropertyFilter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/impl/SimpleFilterProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/impl/StaticListSerializerBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/impl/StringCollectionSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/impl/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/ser/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/type/ArrayType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/type/ClassKey.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/type/CollectionType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/type/HierarchicType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/type/MapType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/type/SimpleType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/type/TypeBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/type/TypeBindings.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/type/TypeFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/type/TypeParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/type/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/util/Annotations.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/util/ArrayBuilders.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/util/ClassUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/util/EnumValues.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/util/JSONPObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/util/JSONWrappedObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/util/LRUMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/util/LinkedNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/util/ObjectBuffer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/util/PrimitiveArrayBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/util/Provider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/util/RootNameLookup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/util/StdDateFormat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/map/util/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/ArrayNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/BaseJsonNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/BigIntegerNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/BinaryNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/BooleanNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/ContainerNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/DecimalNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/DoubleNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/IntNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/JsonNodeFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/LongNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/MissingNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/NodeCursor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/NullNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/NumericNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/ObjectNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/POJONode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/TextNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/TreeTraversingParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/ValueNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/node/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/schema/JsonSchema.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/schema/JsonSerializableSchema.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/schema/SchemaAware.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/schema/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/sym/BytesToNameCanonicalizer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/sym/CharsToNameCanonicalizer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/sym/Name.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/sym/Name1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/sym/Name2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/sym/Name3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/sym/NameN.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/sym/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/type/JavaType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/type/TypeReference.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/type/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/util/BufferRecycler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/util/ByteArrayBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/util/CharTypes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/util/DefaultPrettyPrinter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/util/InternCache.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/util/JsonGeneratorDelegate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/util/JsonParserDelegate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/util/JsonParserSequence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/util/MinimalPrettyPrinter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/util/TextBuffer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/util/TokenBuffer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/util/VersionUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/org/codehaus/jackson/util/package-info.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/github/browep/resume/Constants.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/github/browep/resume/ContentApplication.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/ContentApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/github/browep/resume/HtmlViewer.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/github/browep/resume/Main.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/home.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Home.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/default_listitem.xml" afterPath="$PROJECT_DIR$/res/layout/default_listitem.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/layers.xml" afterPath="$PROJECT_DIR$/res/drawable/layers.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/html_viewer.xml" afterPath="$PROJECT_DIR$/res/layout/html_viewer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume.iml" afterPath="$PROJECT_DIR$/resume.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/aboutus.html" afterPath="$PROJECT_DIR$/res/raw/aboutus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/data.json" afterPath="$PROJECT_DIR$/res/raw/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/styles.xml" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/handiquilter/ContentApplication.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/ContentApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Main.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Main.java" />
     </list>
     <list id="772559e8-e4ad-4fab-96af-612d8d9962b7" name="ignore" comment="" />
     <ignored path="resume.iws" />
@@ -416,71 +86,34 @@
       </breakpoint>
     </breakpoint_any>
     <breakpoint_rules />
-    <ui_properties />
+    <ui_properties>
+      <property name="line_breakpoints_groupByMethods" value="false" />
+      <property name="line_breakpoints_viewId" value="TABLE" />
+      <property name="exception_breakpoints_flattenPackages" value="true" />
+      <property name="method_breakpoints_flattenPackages" value="true" />
+      <property name="field_breakpoints_flattenPackages" value="true" />
+      <property name="exception_breakpoints_groupByMethods" value="false" />
+      <property name="line_breakpoints_groupByClasses" value="true" />
+      <property name="method_breakpoints_viewId" value="TABLE" />
+      <property name="field_breakpoints_groupByMethods" value="false" />
+      <property name="line_breakpoints_flattenPackages" value="true" />
+      <property name="field_breakpoints_groupByClasses" value="true" />
+      <property name="method_breakpoints_groupByClasses" value="true" />
+      <property name="exception_breakpoints_viewId" value="TABLE" />
+      <property name="exception_breakpoints_groupByClasses" value="true" />
+      <property name="field_breakpoints_viewId" value="TABLE" />
+      <property name="method_breakpoints_groupByMethods" value="false" />
+    </ui_properties>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="resume" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HtmlViewer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java">
+      <file leaf-file-name="home.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/home.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="45" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="notfound.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/raw/notfound.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="products.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/raw/products.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="28" selection-start="670" selection-end="670" vertical-scroll-proportion="0.6854839">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constants.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="titlebar.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/titlebar.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="17" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default_listitem.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/default_listitem.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="47" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
+            <state line="11" column="0" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -489,7 +122,7 @@
       <file leaf-file-name="html_viewer.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/html_viewer.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="55" selection-start="850" selection-end="850" vertical-scroll-proportion="0.0">
+            <state line="23" column="44" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -498,16 +131,70 @@
       <file leaf-file-name="aboutus.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/raw/aboutus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="65" selection-start="2502" selection-end="2516" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/raw/contact.html">
+      <file leaf-file-name="HtmlViewer.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="68" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0">
+            <state line="51" column="63" selection-start="1692" selection-end="1692" vertical-scroll-proportion="0.48">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="titlebar.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/titlebar.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constants.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="43" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="R.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gen/com/github/browep/handiquilter/R.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="30" selection-start="1568" selection-end="1568" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/raw/data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="59" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContentApplication.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/ContentApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="44" selection-start="1813" selection-end="1813" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="46" selection-start="2159" selection-end="2159" vertical-scroll-proportion="-9.6">
               <folding />
             </state>
           </provider>
@@ -527,22 +214,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/res/raw/landt.html" />
-        <option value="$USER_HOME$/android-sdk-linux_x86/platforms/android-8/android.jar!/org/w3c/dom/ls/DOMImplementationLS.class" />
-        <option value="$PROJECT_DIR$/src/com/github/browep/resume/ResumeApplication.java" />
-        <option value="$PROJECT_DIR$/res/raw/aboutus.html" />
-        <option value="$PROJECT_DIR$/res/layout/main.xml" />
-        <option value="$PROJECT_DIR$/res/raw/contact.html" />
-        <option value="$PROJECT_DIR$/src/com/github/browep/resume/ContentApplication.java" />
-        <option value="$PROJECT_DIR$/res/raw/products.html" />
-        <option value="$PROJECT_DIR$/src/com/github/browep/resume/HtmlViewer.java" />
         <option value="$PROJECT_DIR$/res/raw/notfound.html" />
-        <option value="$PROJECT_DIR$/res/raw/data.json" />
         <option value="$PROJECT_DIR$/src/com/github/browep/resume/Constants.java" />
         <option value="$PROJECT_DIR$/res/layout/titlebar.xml" />
         <option value="$PROJECT_DIR$/res/layout/default_listitem.xml" />
-        <option value="$PROJECT_DIR$/res/layout/html_viewer.xml" />
+        <option value="$PROJECT_DIR$/src/com/github/browep/handiquilter/Main.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/drawable/layers.xml" />
+        <option value="$PROJECT_DIR$/src/com/github/browep/handiquilter/Home.java" />
+        <option value="$PROJECT_DIR$/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/res/raw/data.json" />
+        <option value="$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java" />
+        <option value="$PROJECT_DIR$/src/com/github/browep/handiquilter/ContentApplication.java" />
+        <option value="$PROJECT_DIR$/res/raw/aboutus.html" />
+        <option value="$PROJECT_DIR$/res/layout/home.xml" />
+        <option value="$PROJECT_DIR$/res/layout/html_viewer.xml" />
+        <option value="$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java" />
       </list>
     </option>
   </component>
@@ -621,6 +308,74 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="handiquilter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resume" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msrtech-content-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resume" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msrtech-content-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="raw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resume" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msrtech-content-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resume" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="msrtech-content-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -801,7 +556,7 @@
     </configuration>
     <configuration default="false" name="resume" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="resume" />
-      <option name="ACTIVITY_CLASS" value="com.github.browep.handiquilter.Main" />
+      <option name="ACTIVITY_CLASS" value="com.github.browep.handiquilter.Home" />
       <option name="MODE" value="specific_activity" />
       <option name="DEPLOY" value="true" />
       <option name="CHOOSE_DEVICE_MANUALLY" value="false" />
@@ -857,10 +612,11 @@
     <frame x="-1" y="1" width="1368" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39583334" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981017" sideWeight="0.67736757" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39486358" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -869,13 +625,12 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32981315" sideWeight="0.67246836" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39939255" sideWeight="0.5778491" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24905087" sideWeight="0.67255217" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24905087" sideWeight="0.67736757" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32263243" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32263243" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Android Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46869984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -952,84 +707,112 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/android-sdk-linux_x86/platforms/android-8/android.jar!/org/json/JSONObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="146" selection-end="146" vertical-scroll-proportion="42.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/android-sdk-linux_x86/platforms/android-8/android.jar!/org/json/JSONArray.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="146" selection-end="146" vertical-scroll-proportion="43.8" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="0" selection-start="1404" selection-end="1404" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="43" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/ContentApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="24" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/raw/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="53" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="45" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/raw/notfound.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/raw/products.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/titlebar.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="17" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/default_listitem.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="47" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/html_viewer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="55" selection-start="850" selection-end="850" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/raw/aboutus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="65" selection-start="2502" selection-end="2516" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/raw/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="68" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0" />
+        <state line="15" column="43" selection-start="0" selection-end="522" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="28" selection-start="670" selection-end="670" vertical-scroll-proportion="0.6854839">
+        <state line="17" column="75" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/layers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="50" selection-start="726" selection-end="726" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/tile_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="31" selection-start="2530" selection-end="2723" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="39" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/github/browep/handiquilter/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="30" selection-start="1568" selection-end="1568" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="46" selection-start="2159" selection-end="2159" vertical-scroll-proportion="-9.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="59" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="43" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/ContentApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="44" selection-start="1813" selection-end="1813" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/home.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/html_viewer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="44" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/raw/aboutus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/titlebar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="63" selection-start="1692" selection-end="1692" vertical-scroll-proportion="0.48">
           <folding />
         </state>
       </provider>

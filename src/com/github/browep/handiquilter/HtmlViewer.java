@@ -7,15 +7,18 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.text.Html;
 import android.text.util.Linkify;
+import android.view.Display;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.Map;
 
 import static com.github.browep.handiquilter.Constants.*;
 
@@ -33,6 +36,31 @@ public class HtmlViewer extends Activity {
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     String screenId = getIntent().getExtras().getString(SCREEN_ID);
+    setContentView(R.layout.html_viewer);
+    final Map screenMap = ContentApplication.getApplication().getScreens().get(screenId);
+    int titleImageId = getResources().getIdentifier(screenId, "drawable", APP_PACKAGE_NAME);
+    if (titleImageId > 0) {
+      ImageView imageView = (ImageView) findViewById(R.id.title_image);
+      imageView.setImageResource(titleImageId);
+      Display display = getWindowManager().getDefaultDisplay();
+      int width = display.getWidth();
+
+      imageView.setMinimumWidth(width);
+      imageView.setMinimumHeight(new Double(width * 0.8).intValue());
+
+      imageView.setMaxWidth(width);
+      imageView.setMaxHeight(new Double(width * 0.8).intValue());
+      if (screenMap.containsKey(VIDEO)) {
+        imageView.setOnClickListener(new View.OnClickListener() {
+          public void onClick(View view) {
+            Intent i = new Intent(Intent.ACTION_VIEW);
+            i.setData(Uri.parse((String) screenMap.get(VIDEO)));
+            startActivity(i);
+          }
+        });
+
+      }
+    }
     int id = getResources().getIdentifier(screenId, "raw", APP_PACKAGE_NAME);
     InputStream inputStream;
     try {
@@ -41,12 +69,12 @@ public class HtmlViewer extends Activity {
       id = getResources().getIdentifier("notfound", "raw", APP_PACKAGE_NAME);
       inputStream = ContentApplication.getApplication().getApplicationContext().getResources().openRawResource(id);
     }
-    setContentView(R.layout.html_viewer);
     TextView blurbView = (TextView) findViewById(R.id.html);
     try {
       blurbView.setText(Html.fromHtml(slurp(inputStream)));
-      Linkify.addLinks(blurbView,Linkify.ALL);
-    } catch (IOException e) {}
+      Linkify.addLinks(blurbView, Linkify.ALL);
+    } catch (IOException e) {
+    }
 
     url = (String) ContentApplication.getApplication().getScreens().get(screenId).get("url");
     if (url != null) {

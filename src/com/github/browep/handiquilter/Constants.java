@@ -10,7 +10,8 @@ package com.github.browep.handiquilter;
 public class Constants {
   public static final String SCREEN_ID = "screen_id";
   public static final String TITLE = "title";
-  public static final String APP_PACKAGE_NAME = "com.github.browep.resume";
+  public static final String APP_PACKAGE_NAME = "com.github.browep.handiquilter";
   public static final String ITEMS = "items";
   public static final String URL = "url";
+  public static final String VIDEO = "video";
 }

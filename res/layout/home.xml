@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        >
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            >
+        <ImageView
+                android:src="@drawable/header"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+        <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                     android:orientation="vertical"
+                     android:layout_width="fill_parent"
+                     android:layout_height="fill_parent"
+                     style="@style/BaseScreen"
+                >
+
+            <TableRow style="@style/HomeRow">
+                <Button
+                        android:id="@+id/store_locator_button"
+                        style="@style/HomeChiclet"
+                        android:src="@drawable/tile_1"
+                        android:background="@drawable/tile_1"
+                        />
+
+                <Button
+                        android:id="@+id/about_us_button"
+                        style="@style/HomeChiclet"
+                        android:src="@drawable/tile_2"
+                        android:background="@drawable/tile_2"
+                        />
+            </TableRow>
+            <TableRow style="@style/HomeRow">
+                <Button
+                        style="@style/HomeChiclet"
+                        android:src="@drawable/tile_3"
+                        android:background="@drawable/tile_3"
+                        />
+
+                <Button
+                        style="@style/HomeChiclet"
+                        android:src="@drawable/tile_4"
+                        android:background="@drawable/tile_4"
+                        />
+            </TableRow>
+
+        </TableLayout>
+    </LinearLayout>
+
+
+</ScrollView>

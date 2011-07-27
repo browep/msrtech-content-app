@@ -5,16 +5,30 @@
         xmlns:android="http://schemas.android.com/apk/res/android"
 
         >
+
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
                   android:layout_width="fill_parent"
                   android:layout_height="wrap_content"
                   android:orientation="vertical"
-            >
+                  android:gravity="center_horizontal"
+                  style="@style/BaseScreen"
+            ><ImageView
+                android:src="@drawable/header"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+        <ImageView
+                android:id="@+id/title_image"
+                android:src="@drawable/header"
+                android:layout_width="320px"
+                android:layout_height="320px"
+                />
         <TextView android:id="@+id/html"
                   android:padding="8sp"
                   android:textSize="16sp"
                   android:layout_width="fill_parent"
                   android:layout_height="wrap_content"
+                  android:textColor="#000000"
                 />
         <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
                       android:layout_width="fill_parent"

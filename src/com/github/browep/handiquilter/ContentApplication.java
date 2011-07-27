@@ -32,6 +32,8 @@ public class ContentApplication extends Application{
     super.onCreate();
     application = this;
 
+    String[] possibleVals = new String[]{URL,VIDEO};
+
     InputStream is = getApplicationContext().getResources().openRawResource(R.raw.data);
     try {
       JSONObject jsonObject = new JSONObject(new JSONTokener(slurp(is)));
@@ -49,8 +51,10 @@ public class ContentApplication extends Application{
           }
           screen.put(ITEMS,items);
         }
-        if(screenObj.has(URL)){
-          screen.put(URL,screenObj.get(URL));
+        for (String val : possibleVals) {
+          if(screenObj.has(val)){
+            screen.put(val,screenObj.get(val));
+          }
         }
         screens.put(key, screen);
       }
