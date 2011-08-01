@@ -12,9 +12,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
-import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
+import com.github.browep.handiquilter.widgets.AspectRatioImageView;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -40,7 +39,7 @@ public class HtmlViewer extends Activity {
     final Map screenMap = ContentApplication.getApplication().getScreens().get(screenId);
     int titleImageId = getResources().getIdentifier(screenId, "drawable", APP_PACKAGE_NAME);
     if (titleImageId > 0) {
-      ImageView imageView = (ImageView) findViewById(R.id.title_image);
+      AspectRatioImageView imageView = (AspectRatioImageView) findViewById(R.id.title_image);
       imageView.setImageResource(titleImageId);
       Display display = getWindowManager().getDefaultDisplay();
       int width = display.getWidth();
@@ -94,7 +93,6 @@ public class HtmlViewer extends Activity {
   }
 
   public void seeItOnClick(View view) {
-    Toast.makeText(this, "see it on click", 1000);
     Intent i = new Intent(Intent.ACTION_VIEW);
     i.setData(Uri.parse(url));
     startActivity(i);

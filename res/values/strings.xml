@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Home</string>
+    <string name="free_dvd_blurb">Please enter your name and address so that we can send you your free DVD introducing
+        you to the Handi Quilter family of long-arm quilting machines.</string>
+    <string name="locator_blurb">Please enter your name and zip code to access the Quiltnow store locator
+    system.</string>
 </resources>

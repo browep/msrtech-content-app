@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:orientation="horizontal"
+              android:layout_height="match_parent">
+
+    <TextView android:id="@+id/label"
+              android:layout_width="80px"
+              style="@style/BaseScreenLabel"
+              android:layout_weight="0"
+              android:layout_height="wrap_content"/>
+    <EditText android:id="@+id/textbox"
+              android:layout_width="wrap_content"
+              android:layout_weight="0.66"
+              android:layout_height="wrap_content" />
+</LinearLayout>

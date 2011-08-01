@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:orientation="vertical"
+              android:layout_height="fill_parent">
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="Store Locator"
+              android:textColor="#000000"
+              android:background="#e9bcf8"
+              android:layout_margin="3px"
+              android:padding="3px"
+            />
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal"
+            >
+        <TextView android:layout_width="110px"
+                  android:layout_height="wrap_content"
+                  android:layout_weight="0"
+                  android:text="Name:"
+                  android:layout_marginRight="3px"
+                  android:gravity="center_vertical|right"
+                  style="@style/BaseScreen"
+                />
+        <EditText android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_weight="1"
+                  android:id="@+id/locator_name"/>
+    </LinearLayout>
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal"
+            >
+        <TextView android:layout_width="110px"
+                  android:layout_height="wrap_content"
+                  android:layout_weight="0"
+                  android:text="Home Zip Code:"
+                  android:layout_marginRight="3px"
+                  android:gravity="center_vertical|right"
+                  style="@style/BaseScreenLabel"
+                />
+        <EditText android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_weight="1"
+                  android:id="@+id/locator_zip"/>
+    </LinearLayout>
+    <Button android:layout_width="120px"
+            android:layout_gravity="center_vertical|center_horizontal|center"
+            android:layout_height="40px" android:text="OK"/>
+
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              style="@style/BaseScreen"
+              android:gravity="center"
+              android:text="@string/locator_blurb"/>
+
+
+</LinearLayout>

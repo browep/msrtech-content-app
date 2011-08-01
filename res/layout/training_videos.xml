@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:fillViewport="true"
+
+
+        >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:layout_width="fill_parent"
+                  android:layout_height="fill_parent"
+                  android:orientation="vertical"
+                  android:gravity="center_horizontal"
+                  style="@style/BaseScreen"
+                  android:id="@+id/wrapper_container"
+            >
+        <ImageView
+                android:src="@drawable/header"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+        <LinearLayout android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:gravity="left"
+                >
+            <TextView android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="Training Videos"
+                      android:textColor="#000000"
+                      android:background="#e9bcf8"
+                      android:layout_margin="3px"
+                      android:padding="3px"
+                    />
+        </LinearLayout>
+
+
+        <ListView
+                android:id="@android:id/list"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:divider="#FFFFFF"
+
+                />
+
+
+    </LinearLayout>
+</ScrollView>

@@ -17,12 +17,11 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 />
-        <ImageView
-                android:id="@+id/title_image"
-                android:src="@drawable/header"
-                android:layout_width="320px"
-                android:layout_height="320px"
-                />
+        <com.github.browep.handiquilter.widgets.AspectRatioImageView android:layout_centerHorizontal="true"
+              android:id="@+id/title_image"
+              android:layout_alignParentTop="true" android:layout_height="wrap_content"
+              android:layout_width="match_parent" android:adjustViewBounds="true" />
+
         <TextView android:id="@+id/html"
                   android:padding="8sp"
                   android:textSize="16sp"

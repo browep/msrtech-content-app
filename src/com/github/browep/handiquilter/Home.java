@@ -17,19 +17,33 @@ import static com.github.browep.handiquilter.Constants.SCREEN_ID;
 public class Home extends Activity {
 
   Activity self = this;
+
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.home);
+  }
 
-    findViewById(R.id.about_us_button).setOnClickListener(new View.OnClickListener(){
+  public void storeLocatorOnClick(View view) {
+    Intent intent = new Intent(self, StoreLocatorActivity.class);
+    self.startActivity(intent);
+  }
 
-      public void onClick(View view) {
-        Intent intent = new Intent(self, HtmlViewer.class);
+  public void trainingOnClick(View view) {
+    Intent intent = new Intent(self, TrainingVideos.class);
+    self.startActivity(intent);
+  }
+
+  public void freeDvdOnClick(View view) {
+    Intent intent = new Intent(self, FreeDVDActivity.class);
+    self.startActivity(intent);
+  }
+
+  public void aboutUsOnClick(View view) {
+    Intent intent = new Intent(self, HtmlViewer.class);
     intent.putExtra(SCREEN_ID, "aboutus");
     self.startActivity(intent);
-      }
-    });
   }
+
 
 }

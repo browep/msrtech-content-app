@@ -15,19 +15,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ebc5e1b-55f3-41e2-a2cf-188c76501b6f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/home.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Home.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/handiquilter.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hq_v4.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/guava-r09.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/aboutus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/easy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/free_dvd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/loading.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/tile_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/tile_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/tile_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/tile_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/toe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/using.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/github/browep/handiquilter/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/banner_wrapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/free_dvd.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/store_locator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/text_field.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/training_videos.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/video_listitem.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/FreeDVDActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/StoreLocatorActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/TrainingVideos.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/widgets/AspectRatioImageView.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/layers.xml" afterPath="$PROJECT_DIR$/res/drawable/layers.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/home.xml" afterPath="$PROJECT_DIR$/res/layout/home.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/html_viewer.xml" afterPath="$PROJECT_DIR$/res/layout/html_viewer.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/aboutus.html" afterPath="$PROJECT_DIR$/res/raw/aboutus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/data.json" afterPath="$PROJECT_DIR$/res/raw/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/resource.xml" afterPath="$PROJECT_DIR$/res/values/resource.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/styles.xml" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume.iml" afterPath="$PROJECT_DIR$/resume.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/handiquilter/ContentApplication.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/ContentApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Home.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Home.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Main.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Main.java" />
     </list>
     <list id="772559e8-e4ad-4fab-96af-612d8d9962b7" name="ignore" comment="" />
     <ignored path="resume.iws" />
@@ -53,6 +77,21 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/TrainingVideos.java" line="79" class="com.github.browep.handiquilter.TrainingVideos.HomeArrayAdapter" package="com.github.browep.handiquilter">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_any>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -110,44 +149,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/home.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="html_viewer.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/html_viewer.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="44" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aboutus.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/raw/aboutus.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HtmlViewer.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="63" selection-start="1692" selection-end="1692" vertical-scroll-proportion="0.48">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="titlebar.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/titlebar.xml">
+      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -155,46 +158,82 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Constants.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java">
+      <file leaf-file-name="home.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/home.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="43" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
+            <state line="45" column="56" selection-start="1910" selection-end="1910" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="R.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gen/com/github/browep/handiquilter/R.java">
+      <file leaf-file-name="TrainingVideos.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/TrainingVideos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="30" selection-start="1568" selection-end="1568" vertical-scroll-proportion="0.0">
+            <state line="63" column="0" selection-start="1822" selection-end="1822" vertical-scroll-proportion="-0.18662953">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/raw/data.json">
+      <file leaf-file-name="ArrayAdapter.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/android-sdk-linux_x86/platforms/android-8/android.jar!/android/widget/ArrayAdapter.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="59" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+            <state line="11" column="9" selection-start="480" selection-end="480" vertical-scroll-proportion="-6.28">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContentApplication.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/ContentApplication.java">
+      <file leaf-file-name="HtmlViewer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="44" selection-start="1813" selection-end="1813" vertical-scroll-proportion="0.0">
+            <state line="97" column="21" selection-start="3304" selection-end="3403" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <file leaf-file-name="video_listitem.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/video_listitem.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="46" selection-start="2159" selection-end="2159" vertical-scroll-proportion="-9.6">
+            <state line="13" column="47" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default_listitem.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/default_listitem.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StoreLocatorActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/StoreLocatorActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="4" selection-start="518" selection-end="740" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banner_wrapper.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/banner_wrapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="8" selection-start="0" selection-end="877" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="training_videos.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/training_videos.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="91" selection-start="1229" selection-end="1229" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -214,22 +253,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/res/raw/notfound.html" />
-        <option value="$PROJECT_DIR$/src/com/github/browep/resume/Constants.java" />
-        <option value="$PROJECT_DIR$/res/layout/titlebar.xml" />
-        <option value="$PROJECT_DIR$/res/layout/default_listitem.xml" />
-        <option value="$PROJECT_DIR$/src/com/github/browep/handiquilter/Main.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/res/drawable/layers.xml" />
-        <option value="$PROJECT_DIR$/src/com/github/browep/handiquilter/Home.java" />
+        <option value="$PROJECT_DIR$/res/values/resource.xml" />
+        <option value="$PROJECT_DIR$/res/layout/free_dvd.xml" />
+        <option value="$PROJECT_DIR$/src/com/github/browep/handiquilter/FreeDVDActivity.java" />
         <option value="$PROJECT_DIR$/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/res/raw/data.json" />
-        <option value="$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java" />
-        <option value="$PROJECT_DIR$/src/com/github/browep/handiquilter/ContentApplication.java" />
-        <option value="$PROJECT_DIR$/res/raw/aboutus.html" />
+        <option value="$PROJECT_DIR$/res/layout/text_field.xml" />
+        <option value="$PROJECT_DIR$/src/com/github/browep/handiquilter/StoreLocatorActivity.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/res/layout/store_locator.xml" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/github/browep/handiquilter/Home.java" />
         <option value="$PROJECT_DIR$/res/layout/home.xml" />
-        <option value="$PROJECT_DIR$/res/layout/html_viewer.xml" />
+        <option value="$PROJECT_DIR$/res/layout/banner_wrapper.xml" />
+        <option value="$PROJECT_DIR$/res/layout/training_videos.xml" />
         <option value="$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java" />
+        <option value="$PROJECT_DIR$/res/layout/video_listitem.xml" />
+        <option value="$PROJECT_DIR$/src/com/github/browep/handiquilter/TrainingVideos.java" />
       </list>
     </option>
   </component>
@@ -275,6 +314,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Favorites" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -381,13 +422,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Favorites" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="OverrideImplement.combined" value="true" />
@@ -395,7 +434,7 @@
     <property name="ExportedApkPath" value="$PROJECT_DIR$/resume.apk" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="options.lastSelected" value="settings.github" />
     <property name="ExportedModule" value="resume" />
     <property name="DefaultHtmlFileTemplate" value="Html" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -560,7 +599,7 @@
       <option name="MODE" value="specific_activity" />
       <option name="DEPLOY" value="true" />
       <option name="CHOOSE_DEVICE_MANUALLY" value="false" />
-      <option name="PREFERRED_AVD" value="" />
+      <option name="PREFERRED_AVD" value="MyAvd2" />
       <option name="COMMAND_LINE" value="" />
       <option name="WIPE_USER_DATA" value="false" />
       <option name="DISABLE_BOOT_ANIMATION" value="false" />
@@ -609,12 +648,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="1" width="1368" height="744" extended-state="0" />
+    <frame x="-1" y="1" width="1368" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981017" sideWeight="0.67736757" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39486358" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -625,12 +663,13 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32981315" sideWeight="0.67246836" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39939255" sideWeight="0.5778491" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24905087" sideWeight="0.67736757" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24829157" sideWeight="0.67255217" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32263243" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32263243" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Android Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46869984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -707,112 +746,104 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+    <entry file="file://$PROJECT_DIR$/res/layout/free_dvd.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="43" selection-start="0" selection-end="522" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="26" column="37" selection-start="1162" selection-end="1240" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/FreeDVDActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="4" selection-start="1620" selection-end="1884" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="75" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="35" column="47" selection-start="1388" selection-end="1388" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/layers.xml">
+    <entry file="file://$PROJECT_DIR$/res/layout/store_locator.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="50" selection-start="726" selection-end="726" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/tile_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="31" selection-start="2530" selection-end="2723" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/Home.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="39" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gen/com/github/browep/handiquilter/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="30" selection-start="1568" selection-end="1568" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="3" selection-start="262" selection-end="580" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="46" selection-start="2159" selection-end="2159" vertical-scroll-proportion="-9.6">
+        <state line="53" column="50" selection-start="2286" selection-end="2286" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="29" selection-start="745" selection-end="760" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/raw/data.json">
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="59" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="43" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/ContentApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="44" selection-start="1813" selection-end="1813" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/home.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
+        <state line="45" column="56" selection-start="1910" selection-end="1910" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/html_viewer.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/StoreLocatorActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="44" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0">
+        <state line="22" column="4" selection-start="518" selection-end="740" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/raw/aboutus.html">
+    <entry file="file://$PROJECT_DIR$/res/layout/banner_wrapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="8" selection-start="0" selection-end="877" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/default_listitem.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/titlebar.xml">
+    <entry file="file://$PROJECT_DIR$/res/layout/training_videos.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="30" column="91" selection-start="1229" selection-end="1229" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="63" selection-start="1692" selection-end="1692" vertical-scroll-proportion="0.48">
+        <state line="97" column="21" selection-start="3304" selection-end="3403" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/android-sdk-linux_x86/platforms/android-8/android.jar!/android/widget/ArrayAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="9" selection-start="480" selection-end="480" vertical-scroll-proportion="-6.28">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/video_listitem.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="47" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/TrainingVideos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="0" selection-start="1822" selection-end="1822" vertical-scroll-proportion="-0.18662953">
           <folding />
         </state>
       </provider>
@@ -820,28 +851,9 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
+      <state key="Copyright.UI">
         <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Android (resume)|Android</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
+          <splitter-proportions />
         </settings>
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
@@ -856,40 +868,9 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="JdkListConfigurable.UI">
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>resume</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
+          <splitter-proportions />
         </settings>
       </state>
     </states>

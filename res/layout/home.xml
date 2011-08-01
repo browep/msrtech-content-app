@@ -28,10 +28,11 @@
                         style="@style/HomeChiclet"
                         android:src="@drawable/tile_1"
                         android:background="@drawable/tile_1"
+                        android:onClick="storeLocatorOnClick"
                         />
 
                 <Button
-                        android:id="@+id/about_us_button"
+                        android:onClick="aboutUsOnClick"
                         style="@style/HomeChiclet"
                         android:src="@drawable/tile_2"
                         android:background="@drawable/tile_2"
@@ -42,12 +43,15 @@
                         style="@style/HomeChiclet"
                         android:src="@drawable/tile_3"
                         android:background="@drawable/tile_3"
+                        android:onClick="trainingOnClick"
                         />
 
                 <Button
+
                         style="@style/HomeChiclet"
                         android:src="@drawable/tile_4"
                         android:background="@drawable/tile_4"
+                        android:onClick="freeDvdOnClick"
                         />
             </TableRow>
 
