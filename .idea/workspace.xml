@@ -14,44 +14,8 @@
     <option name="historyRevisionsNumber" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ebc5e1b-55f3-41e2-a2cf-188c76501b6f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/handiquilter.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hq_v4.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/guava-r09.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/aboutus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/easy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/free_dvd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/loading.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/tile_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/tile_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/tile_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/tile_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/toe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/using.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/github/browep/handiquilter/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/banner_wrapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/free_dvd.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/store_locator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/text_field.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/training_videos.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/video_listitem.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/FreeDVDActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/StoreLocatorActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/TrainingVideos.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/widgets/AspectRatioImageView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/home.xml" afterPath="$PROJECT_DIR$/res/layout/home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/html_viewer.xml" afterPath="$PROJECT_DIR$/res/layout/html_viewer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/aboutus.html" afterPath="$PROJECT_DIR$/res/raw/aboutus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/resource.xml" afterPath="$PROJECT_DIR$/res/values/resource.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/styles.xml" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume.iml" afterPath="$PROJECT_DIR$/resume.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Constants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Home.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/Home.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/HtmlViewer.java" />
+    <list default="true" id="7ebc5e1b-55f3-41e2-a2cf-188c76501b6f" name="Default" comment="track icon file">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/github/browep/handiquilter/TrainingVideos.java" afterPath="$PROJECT_DIR$/src/com/github/browep/handiquilter/TrainingVideos.java" />
     </list>
     <list id="772559e8-e4ad-4fab-96af-612d8d9962b7" name="ignore" comment="" />
     <ignored path="resume.iws" />
@@ -170,7 +134,7 @@
       <file leaf-file-name="TrainingVideos.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/TrainingVideos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="0" selection-start="1822" selection-end="1822" vertical-scroll-proportion="-0.18662953">
+            <state line="42" column="97" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.8093923">
               <folding />
             </state>
           </provider>
@@ -431,7 +395,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="ExportedApkPath" value="$PROJECT_DIR$/resume.apk" />
+    <property name="ExportedApkPath" value="$PROJECT_DIR$/hq_v5.apk" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="settings.github" />
@@ -649,9 +613,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="1" width="1368" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981017" sideWeight="0.67736757" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39486358" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -663,9 +627,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32981315" sideWeight="0.67246836" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39939255" sideWeight="0.5778491" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24829157" sideWeight="0.67255217" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24829157" sideWeight="0.67736757" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32263243" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32263243" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Android Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46869984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -843,7 +807,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/github/browep/handiquilter/TrainingVideos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="0" selection-start="1822" selection-end="1822" vertical-scroll-proportion="-0.18662953">
+        <state line="42" column="97" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.8093923">
           <folding />
         </state>
       </provider>

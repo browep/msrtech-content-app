@@ -30,7 +30,7 @@ public class TrainingVideos extends ListActivity {
 
   static {
     videos = new Map[]{
-        ImmutableMap.of("label", "Super Easy Maintenance ", "image", "easy",
+        ImmutableMap.of("label", "Super Easy Maintenance ~ Clean & Oil", "image", "easy",
             "url", "http://www.youtube.com/watch?v=BhJxJFedf3Y"),
         ImmutableMap.of("label", "Open Toe Hopping Foot Installation", "image", "toe",
             "url", "http://www.youtube.com/watch?v=oKgXChLZCVs"),
