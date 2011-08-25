@@ -4,6 +4,8 @@
           android:versionCode="4"
           android:versionName="1.2">
     <uses-sdk android:minSdkVersion="2"/>
+    <!--<uses-permission android:name="android.permission.CALL_PHONE" />-->
+
     <application android:label="Handi Quilter" android:icon="@drawable/icon"
                  android:name=".ContentApplication"
                  android:debuggable="true">
@@ -16,10 +18,7 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".Main"
-                  android:screenOrientation="portrait"
-                >
-        </activity>
+
         <activity android:name=".HtmlViewer"
                   android:screenOrientation="portrait"
 
@@ -37,5 +36,7 @@
                   android:screenOrientation="portrait"
                 >
         </activity>
+        <activity android:name=".ShareActivity"
+                  android:screenOrientation="portrait" />
     </application>
 </manifest> 

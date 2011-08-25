@@ -1,0 +1,9 @@
+all screens
+very top part (logo )
+
+-auto-dial , email
+
+menu-button
+-share
+	-text, email, barcode
+

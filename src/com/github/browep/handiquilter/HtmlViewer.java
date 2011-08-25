@@ -1,6 +1,5 @@
 package com.github.browep.handiquilter;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.net.Uri;
@@ -28,7 +27,7 @@ import static com.github.browep.handiquilter.Constants.*;
  * Time: 10:18 AM
  * To change this template use File | Settings | File Templates.
  */
-public class HtmlViewer extends Activity {
+public class HtmlViewer extends BaseActivity {
   String url;
 
   @Override

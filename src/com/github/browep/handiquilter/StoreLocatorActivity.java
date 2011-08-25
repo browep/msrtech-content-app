@@ -1,6 +1,5 @@
 package com.github.browep.handiquilter;
 
-import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.LinearLayout;
@@ -12,7 +11,7 @@ import android.widget.LinearLayout;
  * Time: 9:54 PM
  * To change this template use File | Settings | File Templates.
  */
-public class StoreLocatorActivity extends Activity {
+public class StoreLocatorActivity extends BaseActivity {
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);

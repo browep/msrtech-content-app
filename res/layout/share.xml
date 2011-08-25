@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical"
+              android:gravity="top|center_horizontal"
+              style="@style/BaseScreen"
+              android:padding="10px"
+        >
+    <TextView android:text="Share HandiQuilter App"
+              android:layout_height="wrap_content"
+              android:layout_width="wrap_content"
+              android:layout_centerInParent="true"
+              style="@style/BaseScreen"
+            />
+    <LinearLayout android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:orientation="horizontal"
+                  android:layout_centerInParent="true">
+        <ImageView android:onClick="doSMS"
+                   android:background="@drawable/sms"
+                   style="@style/ShareOption"
+                />
+        <ImageView android:onClick="doEmail"
+                   android:background="@drawable/mail"
+                   style="@style/ShareOption"
+                />
+
+
+    </LinearLayout>
+    <TextView android:layout_height="wrap_content"
+              android:layout_width="wrap_content"
+              android:layout_margin="10px"
+              style="@style/BaseScreen"
+              android:text="Or have your friends open up Barcode Scanner on their Android phone and scan this special QR Code and hit \'Open Browser\' to be taken to download the app."
+
+              />
+    <ImageView android:layout_height="180px"
+               android:layout_width="180px"
+               android:background="@drawable/qrcode" />
+
+
+
+</LinearLayout>

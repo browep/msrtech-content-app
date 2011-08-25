@@ -1,5 +1,4 @@
 package com.github.browep.handiquilter;
-import android.app.Activity;
 import android.content.Context;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -19,7 +18,7 @@ import java.util.Map;
  * Time: 1:30 PM
  * To change this template use File | Settings | File Templates.
  */
-public class FreeDVDActivity extends Activity {
+public class FreeDVDActivity extends BaseActivity {
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);

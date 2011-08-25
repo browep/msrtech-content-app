@@ -14,9 +14,7 @@ import static com.github.browep.handiquilter.Constants.SCREEN_ID;
  * Time: 10:18 AM
  * To change this template use File | Settings | File Templates.
  */
-public class Home extends Activity {
-
-  Activity self = this;
+public class Home extends BaseActivity {
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {

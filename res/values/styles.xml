@@ -53,5 +53,10 @@
     <style name="BaseScreenLabel" parent="BaseScreen">
         <item name="android:layout_marginLeft">3px</item>
     </style>
+    <style name="ShareOption">
+        <item name="android:layout_width">80px</item>
+        <item name="android:layout_height">80px</item>
+        <item name="android:layout_margin">10px</item>
+    </style>
 
 </resources>
